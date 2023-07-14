@@ -4,7 +4,7 @@
     <title>For unit test only</title>
     <item>
         <title>Version 0.0.2</title>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="0.0.2-medical" sparkle:os="android" />
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="0.0.2-medical" />
 		<sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
